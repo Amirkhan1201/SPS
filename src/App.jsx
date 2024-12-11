@@ -4,8 +4,8 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import { Stonepaperscissor } from './components/stonepaperscissor'
 import { Imageslide } from './components/imageslide'
-import { Celebration } from './components/celebration'
-
+import { Celebration } from './components/celebration'   
+   
 function App() {
   const [count, setCount] = useState(0)
 
